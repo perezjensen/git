@@ -1,0 +1,17 @@
+commit 880e5a01cfc4f8d647c3c2e3a7d86e6d9f7b089a
+Author: Perez Jensen <artperezjensen@gmail.com>
+Date:   Tue Feb 27 09:08:45 2018 -0400
+
+    se agrego un boton para caturar un numero telefonico
+
+commit 74bd735095fbd403d4d31564b26ebbb89ed633ec
+Author: Perez Jensen <artperezjensen@gmail.com>
+Date:   Tue Feb 27 09:03:56 2018 -0400
+
+    se agrego icono de usuario
+
+commit 505126379925610087acd2f4c5f1fc3e2cd7e0f4
+Author: Perez Jensen <artperezjensen@gmail.com>
+Date:   Tue Feb 27 08:56:59 2018 -0400
+
+    iniciamos
